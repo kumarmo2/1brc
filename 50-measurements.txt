@@ -1,0 +1,50 @@
+Riga;-6.2
+Nicosia;11.4
+Ouagadougou;29.9
+Minsk;13.0
+Marrakesh;35.8
+Copenhagen;8.4
+Ashgabat;9.7
+Saint Petersburg;9.7
+Da Nang;14.3
+Kandi;33.1
+Austin;7.3
+Suva;21.0
+Beirut;1.5
+Halifax;-1.7
+Bata;-4.0
+Copenhagen;15.3
+Tallinn;6.8
+Zürich;4.5
+Odienné;22.0
+Melbourne;9.2
+Singapore;20.6
+Hargeisa;25.0
+Barcelona;19.8
+Zanzibar City;31.8
+Singapore;31.9
+Louisville;3.3
+Parakou;11.8
+Durban;19.5
+El Paso;15.2
+Garoua;32.8
+Abéché;31.8
+Saint Petersburg;12.0
+Cotonou;12.5
+Kathmandu;17.2
+Asmara;31.2
+Baku;18.1
+Anadyr;-9.4
+Kankan;23.7
+Yaoundé;14.2
+Almaty;-5.0
+Marseille;27.1
+Bujumbura;19.3
+Saint Petersburg;-0.8
+Lusaka;19.9
+Beijing;0.2
+Arkhangelsk;3.7
+Edmonton;17.7
+Ürümqi;-0.2
+Upington;12.3
+Adelaide;14.4
